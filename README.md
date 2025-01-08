@@ -1,7 +1,5 @@
 ## Olá, me chamo Pedro Gabriel
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalhando com PowerShell;
 - 🌱 Atualmente estudando Python, JavaScript, PHP, HTML5, CSS3 e Mysql;
 - 👯 I’m looking to collaborate on ...
