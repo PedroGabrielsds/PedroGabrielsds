@@ -1,8 +1,5 @@
 ## Olá, me chamo Pedro Gabriel
 
-<!--
-**PedroGabrielsds/PedroGabrielsds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalhando com PowerShell;
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
--->
+
